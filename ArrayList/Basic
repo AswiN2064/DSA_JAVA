@@ -4,3 +4,9 @@ Difference beteen arrays and arrayList
     Arrays are Natural Data Structure. Whereas, arrayList is an added class
     Arrays are fixed in size. But, ArrayList can grow and shrink
     Arrays can hold primitive datatypes(int) Whereas arraylist can only hold objects(Integer).
+
+Creating an ArrayList:
+    The Object must be specified using <> when creating an arraylist.
+    Example:
+        ArrayList<String> arr1 = new ArrayList<>();
+        ArrayList<Integer> arr1 = new ArrayList<>();
