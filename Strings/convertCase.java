@@ -1,5 +1,9 @@
 package Strings;
 import java.util.*;
+// Logic :
+// Ascii("E" - "A" + "a") = Ascii("e")
+
+
 public class convertCase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
