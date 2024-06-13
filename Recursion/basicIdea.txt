@@ -1,0 +1,16 @@
+points to remember while using recursion:
+    
+    Assumption:
+        Decide What your function should do and assume it does
+
+    main logic:
+        solving problems with sub problems.
+        Example:
+            Sum of 5 natural numbers 1 + 2 + 3 + 4 + 5.
+            here n = 5;
+            Sum of n - 1 natural numbers + n
+    
+    base case:
+        when code should stop.
+        Example when n reaches 0 my code should stop.
+        
