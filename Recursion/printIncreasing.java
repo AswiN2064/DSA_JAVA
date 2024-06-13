@@ -14,6 +14,6 @@ public class printIncreasing {
         }
         increasingOrder(n-1);
         System.out.print(n+" ");
-        
+        // increasingOrder(n-1); ==> for decreasing order
     }
 }
