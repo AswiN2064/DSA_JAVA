@@ -3,7 +3,6 @@ import java.util.*;
 
 public class striding {
     public static void main(String[] args) {
-        int arr[] = {1,5,3,4,5,6,7,8};
         Scanner sc = new Scanner(System.in);
 
         // reading input for n =  array size;
@@ -11,6 +10,7 @@ public class striding {
         int n = sc.nextInt();
 
         // reading input for array;
+        int[] arr = new int[n];
         System.out.println("Enter the Elements of the array: ");
         for(int i = 0; i < n; i++){
             arr[i] = sc.nextInt();
